@@ -1,0 +1,13 @@
+mount /media/computername/NTFS1/Repo/repo1.iso /media/computername/NTFS1/Repo/repo1 -o loop;
+mount /media/computername/NTFS1/Repo/repo2.iso /media/computername/NTFS1/Repo/repo2 -o loop;
+mount /media/computername/NTFS1/Repo/repo3.iso /media/computername/NTFS1/Repo/repo3 -o loop;
+mount /media/computername/NTFS1/Repo/repo4.iso /media/computername/NTFS1/Repo/repo4 -o loop;
+mount /media/computername/NTFS1/Repo/repo5.iso /media/computername/NTFS1/Repo/repo5 -o loop;
+mount /media/computername/NTFS1/Repo/repo6.iso /media/computername/NTFS1/Repo/repo6 -o loop;
+mount /media/computername/NTFS1/Repo/repo7.iso /media/computername/NTFS1/Repo/repo7 -o loop;
+mount /media/computername/NTFS1/Repo/repo8.iso /media/computername/NTFS1/Repo/repo8 -o loop;
+mount /media/computername/NTFS1/Repo/repo9.iso /media/computername/NTFS1/Repo/repo9 -o loop;
+mount /media/computername/NTFS1/Repo/repo10.iso /media/computername/NTFS1/Repo/repo10 -o loop;
+mount /media/computername/NTFS1/Repo/repo11.iso /media/computername/NTFS1/Repo/repo11 -o loop;
+mount /media/computername/NTFS1/Repo/repo12.iso /media/computername/NTFS1/Repo/repo12 -o loop;
+mount /media/computername/NTFS1/Repo/repo13.iso /media/computername/NTFS1/Repo/repo13 -o loop;
